@@ -1,4 +1,3 @@
-# udacity_capstone_project
 # Data Engineering Capstone Project
 
 #### Project Summary
